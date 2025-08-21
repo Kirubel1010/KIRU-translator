@@ -1,4 +1,5 @@
-# Terguami: English-to-Amharic Translation API
+# KIRU-translator:English ↔ Amharic translation API  
+Made by KIRU.
 <p>
   <img src="https://img.shields.io/badge/FastAPI-v1.0.0-brightgreen.svg" alt="FastAPI">
   <img src="https://img.shields.io/badge/Python-3.10-blue.svg" alt="Python">
