@@ -49,7 +49,7 @@ This repository provides an English-to-Amharic translation API built with **Fast
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/amha-kindu/terguami.git
+git clone https://github.com/kirubel1010/terguami.git
 cd terguami
 ```
 
